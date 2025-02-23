@@ -1,0 +1,1 @@
+/home/buddha/SoftDev/UdemyFlutterMaximilian/expense_tracker/build/app/intermediates/cxx/Debug/3df5b1a2/obj/arm64-v8a

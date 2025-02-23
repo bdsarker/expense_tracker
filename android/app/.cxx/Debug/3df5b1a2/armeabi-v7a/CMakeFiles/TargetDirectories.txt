@@ -1,0 +1,2 @@
+/home/buddha/SoftDev/UdemyFlutterMaximilian/expense_tracker/android/app/.cxx/Debug/3df5b1a2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/buddha/SoftDev/UdemyFlutterMaximilian/expense_tracker/android/app/.cxx/Debug/3df5b1a2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
